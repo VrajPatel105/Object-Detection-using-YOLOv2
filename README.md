@@ -9,7 +9,7 @@ This project implements YOLO object detection to classify **healthy coral, unhea
 - **Point tracking algorithm** used to speed up data labeling  
 - Evaluated using **precision-recall curves & false positive rates**  
 
-## 🛠 Challenges & Improvements
+## Challenges & Improvements
 ### **Challenges**
 - Data collection from **online sources**
 - **Manual labeling (85% of images)** due to complex coral structures  
