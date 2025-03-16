@@ -1,5 +1,8 @@
 # Coral Health & Plastic Detection using YOLO
 
+<img src="https://raw.githubusercontent.com/VrajPatel105/Object-Detection-using-YOLOv2/main/Screenshot%202025-03-16%20195030.png" width="300"> <img src="https://raw.githubusercontent.com/VrajPatel105/Object-Detection-using-YOLOv2/main/Screenshot%202025-03-16%20195037.png" width="300"> <img src="https://raw.githubusercontent.com/VrajPatel105/Object-Detection-using-YOLOv2/main/Screenshot%202025-03-16%20195432.png" width="300">
+
+
 ##  Overview
 This project implements YOLO object detection to classify **healthy coral, unhealthy coral, and plastic** in underwater imagery. The model aims to **automate coral reef monitoring** and assist **marine conservation efforts**.
 
